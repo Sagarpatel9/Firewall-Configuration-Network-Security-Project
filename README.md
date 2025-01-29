@@ -27,8 +27,12 @@ This project demonstrates **firewall security configurations** using **pfSense**
 - Enhanced **network security and traffic visibility**.
 
 
-## Screenshots
-![Firewall Logs](screenshots/firewall_logs.png)
+## Document
+Please refer to document to see all the implementation.
+![Firewall Logs](document/firewallconfiguration.docx)
+
+## pfsense configuration screenshot
+![configu](document/Screenshot from 2024-12-06 16-52-21.png)
 
 ---
 ### **Contributors**
