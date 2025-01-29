@@ -32,7 +32,10 @@ Please refer to document to see all the implementation.
 ![Firewall Logs](document/firewallconfiguration.docx)
 
 ## pfsense configuration screenshot
-![configu](document/Screenshot from 2024-12-06 16-52-21.png)
+![configur1](document/config1.png)
+![configur1](document/config2.png)
+
+
 
 ---
 ### **Contributors**
