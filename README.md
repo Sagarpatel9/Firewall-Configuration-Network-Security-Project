@@ -40,4 +40,4 @@ Please refer to document to see all the implementation.
 ---
 ### **Contributors**
 - **Sagar Patel** - Cybersecurity Enthusiast 🔒
-- Connect with me on **[LinkedIn]([https://linkedin.com/in/sagarpatel](https://www.linkedin.com/in/sagar-patel-48612a311/))**.
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/sagar-patel-48612a311/)**.
