@@ -29,7 +29,7 @@ This project demonstrates **firewall security configurations** using **pfSense**
 
 ## Document
 Please refer to document to see all the implementation.
-![Firewall Logs](document/firewallconfiguration.docx)
+![Firewall document with explanation](document/firewallconfiguration.docx)
 
 ## pfsense configuration screenshot
 ![configur1](document/config1.png)
